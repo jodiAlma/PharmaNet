@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086557750809",
+    "project_id": "pharma-net-f0afb",
+    "storage_bucket": "pharma-net-f0afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086557750809:android:9f8e4f108bf604e098cc88",
+        "android_client_info": {
+          "package_name": "com.example.pharma_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086557750809-n6cg38r0jood1e93qsaqq70t6er50irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjT2OUiz0z-Ea5e1af0XvJ2DhANrblR0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086557750809-n6cg38r0jood1e93qsaqq70t6er50irh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
